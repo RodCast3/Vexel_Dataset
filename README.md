@@ -1,7 +1,7 @@
 # Vexel_Dataset
 
 Repositorio de imágenes biométricas filtradas y clasificadas para el entrenamiento de modelos de reconocimiento facial, desarrollado como parte del proyecto de tesis:  
-**Sistema de control de acceso hospitalario basado en reconocimiento biométrico utilizando redes neuronales.**
+**Sistema de control de acceso a áreas restringidas mediante reconocimiento facial y generación de códigos OTP.**
 
 ## 📄 Descripción
 
