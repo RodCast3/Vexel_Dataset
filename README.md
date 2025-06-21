@@ -14,7 +14,7 @@ Las imágenes se organizan por carpetas etiquetadas con identificadores anónimo
 https://github.com/cleardusk/MeGlass
 
 ## 🧠 Tecnologías aplicadas en la construcción
-- OpenCV (detección y recorte de rostros)
 - MTCCN para recorte de rostros
+- OpenCV (Acondicionamiento de imagenes)
 - Filtro Sobel para realce de bordes
 - Clasificación manual y validación visual
